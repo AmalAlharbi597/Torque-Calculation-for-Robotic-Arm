@@ -5,8 +5,11 @@ Given Data:
 Arm Lengths:
 
 First arm: ( 15 cm ) (( 0.15 m )).
+
 Second arm: ( 10 cm) (( 0.10 m)).
+
 Third arm: ( 4 cm ) (( 0.04 m )).
+
 Hanging Weight: ( 1 kg).
 
 Gravitational Acceleration: ( g = 9.81 m/s^2 ).
