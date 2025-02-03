@@ -51,6 +51,21 @@ Substituting the arm lengths:
 ![image](https://github.com/user-attachments/assets/8c9b1bd9-8f1e-4417-9f67-508bad89fc16)
 
 
+ 3. Joint 3 (End-Effector):
+    
+This joint supports only the weight of the hanging object.
+The torque at the third joint is:
+
+  ![image](https://github.com/user-attachments/assets/2620b31a-7424-4f18-a26f-0d20bf1a50d1)
+
+
+ Substituting the arm length:
+
+ ![image](https://github.com/user-attachments/assets/32761400-44c2-4b32-a738-46800747508b)
+
+
+
+
 
 Step 3: Motor Selection
 
