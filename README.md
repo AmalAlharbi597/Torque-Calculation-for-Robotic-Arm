@@ -88,3 +88,7 @@ For Joint 3: Consider the MG996R Servo Motor, which offers a torque of approxima
 ![image](https://github.com/user-attachments/assets/a9fcf559-61fb-4106-86b7-17e047e8354f)
 
 For Joints 1 and 2: Choose higher-torque motors based on the calculated requirements.
+
+links to buy
+https://www.amazon.com/s?k=MG996R
+https://www.amazon.com/s?k=high+torque+servo+motor
